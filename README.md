@@ -87,19 +87,6 @@
 - **PageRouteBuilder** for custom transitions
 - **Transform & Opacity** animations with clamping
 
-## 📱 Screenshots & Preview
-
-<div align="center">
-
-| 🌟 Splash Screen | 🔐 Login System | 🏠 Home Dashboard |
-|:---:|:---:|:---:|
-| ![Splash](https://via.placeholder.com/200x400/6C63FF/FFFFFF?text=Splash) | ![Login](https://via.placeholder.com/200x400/00E676/FFFFFF?text=Login) | ![Home](https://via.placeholder.com/200x400/FFD700/000000?text=Home) |
-
-| 💳 Wallet Manager | 📈 Investment Hub | 📊 Analytics |
-|:---:|:---:|:---:|
-| ![Wallet](https://via.placeholder.com/200x400/FF5722/FFFFFF?text=Wallet) | ![Invest](https://via.placeholder.com/200x400/9C27B0/FFFFFF?text=Invest) | ![Stats](https://via.placeholder.com/200x400/607D8B/FFFFFF?text=Stats) |
-
-</div>
 
 ## 🚀 Quick Start Guide
 
